@@ -1,6 +1,8 @@
-# TODO List API
+# TODO List Challenge
 
-### Essa API foi criada com o objetivo fornecer um backend para desafios de frontend
+> :warning: **Essa API foi criada com o intuito de fornecer um backend para um desafio de desenvolvimento frontend, e por isso não possui configuração para execução em produção.** :warning:
+
+> :warning: **A documentação das rotas da API ainda não está completa!** :warning:
 
 ## Rotas
 * Autenticação
